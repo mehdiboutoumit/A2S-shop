@@ -1,0 +1,23 @@
+.contains {
+    
+    padding: 140px 0;
+    border: 3px solid rgb(118, 147, 201);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.center{
+    width: auto;
+    height: auto;
+    padding: 200px 355px;
+    
+    
+    background-color:#2D9596;
+}
+body{
+    
+}
+
+
